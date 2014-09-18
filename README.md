@@ -1,0 +1,1 @@
+Artificial Intelligence project(Python): an AI version of Pacman searching food using Breath-First Search, Depth-First Search, Greedy Search and A* Search.
